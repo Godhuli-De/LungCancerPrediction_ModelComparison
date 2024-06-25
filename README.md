@@ -10,5 +10,11 @@ Key Findings:
 - The confusion matrix and classification report highlighted the performance metrics of the ensemble model on the test set.
 
 
+![image](https://github.com/Godhuli-De/LungCancerPrediction_ModelComparison/assets/75137558/e45750ba-7204-4d4a-a960-3bf388bccce5)
+
+
+![image](https://github.com/Godhuli-De/LungCancerPrediction_ModelComparison/assets/75137558/0fbb5c82-9fce-42c1-89ba-eec3e2f7fa1e)
+
+
 Contact
 For any queries or suggestions, please contact [Godhuli De](https://github.com/Godhuli-De)
