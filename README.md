@@ -1,5 +1,5 @@
-# LungCancerPrediction_ModelComparison
-**Lung Cancer Prediction - Model Comparison**
+#Lung Cancer Prediction - Model Comparison
+
 This project focuses on the prediction of lung cancer using multiple machine learning models and comparing their performances. The dataset used for this project consists of various features related to lung cancer, which were preprocessed, normalized, and then used for training different classifiers.
 
 This repository contains the code for data preprocessing, model training, evaluation, and visualization, providing a comprehensive approach to lung cancer prediction using machine learning.
